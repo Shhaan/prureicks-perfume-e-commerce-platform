@@ -32,10 +32,10 @@ store while integrating a real payment gateway.
 
 ## Tech Stack
 
--   Backend: Django / DRF / FastAPI (update as applicable)
--   Frontend: React (if used)
+-   Backend: Django / DRF / FastAPI  
+-   Frontend: React  
 -   Payment Gateway: PayPal API
--   Database: PostgreSQL / SQLite (update as applicable)
+-   Database: PostgreSQL 
 
 ------------------------------------------------------------------------
 
